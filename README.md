@@ -1,2 +1,2 @@
 # newportafolio
-## Html, Tailwind, Emailjs.
+## Html, Tailwind, Emailjs, AOS Animations
